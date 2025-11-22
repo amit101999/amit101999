@@ -82,7 +82,7 @@ const amit = {
 
 ### 🎯 Taskedo Portal
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amit101999/taskedo-portal)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://taskedo-portal.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://promanage.duckdns.org)
 
 **Role-based Task Management Platform with Real-time Updates**
 
@@ -99,7 +99,7 @@ const amit = {
 
 ### 💼 DreamJobs Portal
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amit101999/dreamjobs-portal)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://dreamjobs-portal.vercel.app)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://job-portal-frontend-tau-orpin.vercel.app)
 
 **AI-Powered Job Portal with Smart Recommendations**
 

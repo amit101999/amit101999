@@ -88,14 +88,16 @@ const amit = {
 
 `React` `TypeScript` `Redux` `Prisma` `PostgreSQL` `Express` `Socket.io` `Docker` `AWS EC2` `CI/CD`
 
-- 🔐 JWT Authentication & Role-Based Access Control (RBAC)
-- 📊 Admin Dashboard with Analytics & User Management
-- ⚡ Real-time Notifications using Socket.io
-- 📧 Email + Live Notification System
-- 🚀 CI/CD Pipeline with GitHub Actions
-- 🐳 Dockerized Deployment on AWS EC2
-
----
+- 🔐 Engineered a role-based task management platform with dedicated Admin and User panels, implementing a
+      CI/CD pipeline using GitHub Actions ,deployed containerized frontend and backend (Docker) on AWS
+- 📊 Built a React ,TypeScript , Tailwind frontend with Redux for global state management, supporting multiple
+     dashboards, advanced filters, and role-specific views
+- ⚡ Developed a Node.js backend using Prisma ORM with PostgreSQL, enabling secure task, project, and user
+     management with scalable data modeling
+- 📧 Implemented background job processing with BullMQ for task assignments and email notifications, integrating
+      Nodemailer and Socket.io for real-time activity updates
+- 🚀  Enabled secure authentication and profile management using Google OAuth2, JWT-based role
+      authorization, and implemented file uploads with Multer and Cloudinary for reliable asset handling
 
 ### 💼 DreamJobs Portal
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/amit101999/dreamjobs-portal)

@@ -2,7 +2,7 @@
   
 # 👋 Hey there! I'm Amit Thakur
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Enthusiast+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;Open+Source+Contributor+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Enthusiast+%F0%9F%92%BB;Problem+Solver+%F0%9F%A7%A9;AI+Developer+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
@@ -23,10 +23,10 @@
 
 ```javascript
 const amit = {
-    location: "Ludhiana, Punjab, India 📍",
+    location: "Chandigarh, Punjab, India 📍",
     currentRole: "Software Developer Intern @ Helios Tech Labs",
     education: "MCA @ Graphic Era Hill University (8.39 CGPA)",
-    currentlyLearning: ["Kubernetes", "DevOps", "System Design"],
+    currentlyLearning: ["Devops", "Agentic AI", "System Design"],
     passions: ["Building scalable applications", "Problem solving", "Clean code"],
     funFact: "I debug with console.log and I'm proud of it! 😄"
 };
@@ -184,10 +184,10 @@ const amit = {
 
 ```mermaid
 graph LR
-    A[Current Focus] --> B[Kubernetes ☸️]
+    A[Current Focus] --> B[Kakfa ☸️]
     A --> C[DevOps 🔧]
     A --> D[System Design 🏗️]
-    A --> E[Microservices 🔮]
+    A --> E[Agentic AI 🤖]
     
     style A fill:#00D9FF,stroke:#333,stroke-width:4px,color:#000
     style B fill:#326CE5,stroke:#333,stroke-width:2px,color:#fff
